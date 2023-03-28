@@ -1,14 +1,14 @@
 <?php
 /**
  * @package Test_Plugin
- * @version 1.0.0-alpha2
+ * @version 1.0.0-alpha3
  */
 /*
 Plugin Name: UTexas Test Plugin
 Plugin URI: https://github.com/utexas-wp/test-plugin
 Description: This is a workflow test.
 Author: University of Texas at Austin
-Version: 1.0.0-alpha2
+Version: 1.0.0-alpha3
 Author URI: https://its.utexas.edu
 GitHub Plugin URI: https://github.com/utexas-wp/test-plugin
 Primary Branch: main
