@@ -11,6 +11,7 @@ Author: University of Texas at Austin
 Version: 1.0.0-alpha2
 Author URI: https://its.utexas.edu
 GitHub Plugin URI: https://github.com/utexas-wp/test-plugin
+Primary Branch: main
 */
 
 function test_plugin_get_lyric() {
