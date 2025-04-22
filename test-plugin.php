@@ -1,17 +1,17 @@
 <?php
 /**
  * @package Test_Plugin
- * @version 1.0.3
+ * @version 1.0.4
  */
 /*
 Plugin Name: UTexas Test Plugin
 Plugin URI: https://github.com/utexas-wp/test-plugin
 Description: This is a workflow test.
 Author: University of Texas at Austin
-Version: 1.0.2
+Version: 1.0.4
 Author URI: https://its.utexas.edu
 GitHub Plugin URI: https://github.com/utexas-wp/test-plugin
-Primary Branch: main
+Primary Branch: master
 */
 
 function test_plugin_get_lyric() {
