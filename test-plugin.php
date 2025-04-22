@@ -1,7 +1,7 @@
 <?php
 /**
  * @package Test_Plugin
- * @version 1.0.2
+ * @version 1.0.3
  */
 /*
 Plugin Name: UTexas Test Plugin
