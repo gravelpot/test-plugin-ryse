@@ -5,7 +5,7 @@ namespace RYSE\GitHubUpdaterDemo;
 /**
  * Plugin Name:        UTexas GitHub Updater Demo
  * Plugin URI:         https://github.com/gravelpot/test-plugin-ryse
- * Version:            1.0.0
+ * Version:            1.0.1
  * Description:        WordPress plugin to demonstrate how `GitHubUpdater` can enable WordPress to check for and update a custom plugin that's hosted in either a public or private repository on GitHub.
  * Author:             Paul Grotevant
  * Author URI:         https://gravelpot.org
